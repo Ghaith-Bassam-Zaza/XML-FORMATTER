@@ -2,17 +2,16 @@
 JAVA desktop application made to edit xml code and format , check correctness, etc.. and analyze certain format of social network and represnt it as graph 
 ASU ENG CSE senior1 Data structures and algorithms project
 
-Project branches
-1- main
-contains UML and readme file
+Project Folders
 
-2- phase1:
+
+1- phase1:
 contains text editing classes, xml validation and correction , json converter, Compression and decompresion.
 
-3- phase2:
+2- phase2:
 contains graph constructing classes, network analysis, post seach and network visualization.
 
-4- gui
+3- gui
 contains graphical user interface classes.
 
 ## contributors:
